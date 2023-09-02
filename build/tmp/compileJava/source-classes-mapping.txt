@@ -1,0 +1,24 @@
+PengurutanArray.java
+ PengurutanArray
+FizzBuzzGame.java
+ FizzBuzzGame
+PalindromeChecker.java
+ PalindromeChecker
+RecursiveSortArray.java
+ RecursiveSortArray
+SearchArray.java
+ SearchArray
+PersegiBintang.java
+ PersegiBintang
+SegitigaBintang.java
+ SegitigaBintang
+SegitigaAngka.java
+ SegitigaAngka
+DeretFibonacci.java
+ DeretFibonacci
+SegitigaPascal.java
+ SegitigaPascal
+BilanganPrima.java
+ BilanganPrima
+Kalkulator.java
+ Kalkulator
